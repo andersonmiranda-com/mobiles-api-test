@@ -63,7 +63,7 @@ const Phones = () => {
         aria-labelledby="customized-dialog-title"
         open={open}
       >
-        <PhoneDetailComponent detail={phoneDetail} />
+        <PhoneDetailComponent detail={phoneDetail} onClose={handleClose} />
       </Dialog>
     </>
   );
