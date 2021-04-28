@@ -10,7 +10,7 @@ router.get("/", function (req, res) {
   });
 });
 
-// Set PI phones response
+// Set API phones response from mock data
 router.get("/phones", function (req, res) {
   res.json(phoneData);
 });
