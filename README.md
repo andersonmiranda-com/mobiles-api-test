@@ -46,7 +46,6 @@ Build:
 ```
 cd frontend
 npm run build
-
 ```
 
 Run the backend server:
@@ -54,7 +53,6 @@ Run the backend server:
 ```
 cd ../backend
 npm run serve
-
 ```
 
 The app will be available at [http://localhost:4000](http://localhost:4000).
