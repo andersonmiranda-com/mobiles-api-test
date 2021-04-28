@@ -1,0 +1,20 @@
+[
+  {
+    "title": "iPhone 12 Pro",
+    "manufacturer": "Apple",
+    "image": "https://catalogo.orange.es/catalogo/Imagenes/Dispositivos/iphone_12_pro_grafito_Front.png",
+    "description": "iPhone 12 Pro 128 GB grafito con 5G",
+    "price": 1159.0,
+    "color": "Black",
+    "memory": 128
+  },
+  {
+    "title": "Samsung S21",
+    "manufacturer": "Samsung",
+    "image": "https://www.celularesimportados.com.co/wp-content/uploads/2021/01/img_0_77_2798_0_1.jpg",
+    "description": "Samsung S21 Ultra 12 Ram 256 Memoria",
+    "price": 1159.0,
+    "color": "Black",
+    "memory": 256
+  }
+]
