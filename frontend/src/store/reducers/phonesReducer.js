@@ -17,6 +17,7 @@ const reducer = (state = initialState, action) => {
       return {
         loading: false,
         error: action.payload,
+        phones: [],
       };
     default:
       return state;

@@ -12,6 +12,7 @@ import Dialog from "@material-ui/core/Dialog";
 
 import PhoneDetailComponent from "../components/PhoneDetailComponent";
 import Loading from "../components/Loading";
+import DataError from "../components/DataError";
 
 function Phones() {
   const dispatch = useDispatch();
@@ -39,7 +40,7 @@ function Phones() {
       {loading ? (
         <Loading />
       ) : error ? (
-        error.message
+        <DataError message={error.message} />
       ) : (
         <List>
           {phones.map((p) => (

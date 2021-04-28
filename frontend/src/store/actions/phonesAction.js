@@ -11,7 +11,7 @@ export const getPhones = () => async (dispatch) => {
   } catch (e) {
     dispatch({
       type: PHONES_ERROR,
-      payload: console.log(e),
+      payload: { message: "Ops... Error reading from server :(" },
     });
   }
 };
