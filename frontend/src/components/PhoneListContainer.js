@@ -11,8 +11,9 @@ import Avatar from "@material-ui/core/Avatar";
 import Dialog from "@material-ui/core/Dialog";
 
 import PhoneDetailComponent from "../components/PhoneDetailComponent";
+import Loading from "../components/Loading";
 
-const Phones = () => {
+function Phones() {
   const dispatch = useDispatch();
   const phonesList = useSelector((state) => state.phonesList);
   const { loading, error, phones } = phonesList;
@@ -36,7 +37,7 @@ const Phones = () => {
   return (
     <>
       {loading ? (
-        "Loading..."
+        <Loading />
       ) : error ? (
         error.message
       ) : (
@@ -67,6 +68,6 @@ const Phones = () => {
       </Dialog>
     </>
   );
-};
+}
 
 export default Phones;

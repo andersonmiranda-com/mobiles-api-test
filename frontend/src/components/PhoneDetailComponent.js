@@ -6,9 +6,6 @@ import IconButton from "@material-ui/core/IconButton";
 import CloseIcon from "@material-ui/icons/Close";
 
 const useStyles = makeStyles({
-  root: {
-    width: 400,
-  },
   media: {
     maxHeight: 300,
   },
@@ -24,7 +21,7 @@ function PhoneDetailComponent(props) {
   const classes = useStyles();
   return (
     <>
-      <DialogTitle className={classes.root}>
+      <DialogTitle>
         {detail.title}
         <IconButton
           aria-label="close"
