@@ -12,7 +12,9 @@ router.get("/", function (req, res) {
 
 // Set API phones response from mock data
 router.get("/phones", function (req, res) {
-  res.json(phoneData);
+  setTimeout(() => {
+    res.json(phoneData);
+  }, 2000);
 });
 
 // Export API routes
