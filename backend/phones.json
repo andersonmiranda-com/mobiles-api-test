@@ -1,48 +1,48 @@
 [
   {
-    "title": "iPhone 12 Pro",
+    "title": "iPhone 11 Pro",
     "manufacturer": "Apple",
-    "image": "https://catalogo.orange.es/catalogo/Imagenes/Dispositivos/iphone_12_pro_grafito_Front.png",
-    "description": "iPhone 12 Pro 128 GB grafito con 5G",
-    "price": 1159.0,
+    "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/290034_6062fdf9-c7cd-451b-9b8b-a1a9c2aa2d11.jpg",
+    "description": "Reacondicionado: 100% funcional, limpio y con accesorios. Aspecto exterior: puede tener micro-rasguños y / o pequeños golpes.",
+    "price": 605,
+    "color": "White",
+    "memory": 64
+  },
+  {
+    "title": "Samsung S10+ Dual Sim",
+    "manufacturer": "Samsung",
+    "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/236405_c08803c3-62fc-46d7-a4ce-d1a3083aa996.jpg",
+    "description": "Galaxy S10+ 128 Gb Dual Sim - Negro (Prism Black). Reacondicionado: 100% funcional, limpio y con accesorios.",
+    "price": 378,
     "color": "Black",
     "memory": 128
   },
   {
-    "title": "Samsung S21",
-    "manufacturer": "Samsung",
-    "image": "https://www.celularesimportados.com.co/wp-content/uploads/2021/01/img_0_77_2798_0_1.jpg",
-    "description": "Samsung S21 Ultra 12 Ram 256 Memoria",
-    "price": 1159.0,
+    "title": "iPhone 7",
+    "manufacturer": "Apple",
+    "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/15023_058cc2ff-d05c-4316-a88a-c7a62b5ed065.jpg",
+    "description": "iPhone 7 128 Gb - Negro",
+    "price": 258,
     "color": "Black",
+    "memory": 128
+  },
+  {
+    "title": "iPhone X",
+    "manufacturer": "Apple",
+    "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/36834_efd45da5-a374-4c62-8b7b-7ceb2c86c0ae.jpg",
+    "description": "iPhone X 256 Gb - Gris Espacial - Libre - Reacondicionado",
+    "price": 365,
+    "color": "Space Gray",
     "memory": 256
   },
   {
-    "title": "iPhone 12 Pro",
-    "manufacturer": "Apple",
-    "image": "https://catalogo.orange.es/catalogo/Imagenes/Dispositivos/iphone_12_pro_grafito_Front.png",
-    "description": "iPhone 12 Pro 128 GB grafito con 5G",
-    "price": 1159.0,
+    "title": "HTC U Ultra",
+    "manufacturer": "HTC",
+    "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/26369_fcc8bf67-8c72-482c-b70a-1b8897d6e431.jpg",
+    "description": "Reacondicionado: 100% funcional, limpio y con accesorios.",
+    "price": 495.0,
     "color": "Black",
-    "memory": 128
-  },
-  {
-    "title": "Samsung S21",
-    "manufacturer": "Samsung",
-    "image": "https://www.celularesimportados.com.co/wp-content/uploads/2021/01/img_0_77_2798_0_1.jpg",
-    "description": "Samsung S21 Ultra 12 Ram 256 Memoria",
-    "price": 1159.0,
-    "color": "Black",
-    "memory": 256
-  },
-  {
-    "title": "iPhone 12 Pro",
-    "manufacturer": "Apple",
-    "image": "https://catalogo.orange.es/catalogo/Imagenes/Dispositivos/iphone_12_pro_grafito_Front.png",
-    "description": "iPhone 12 Pro 128 GB grafito con 5G",
-    "price": 1159.0,
-    "color": "Black",
-    "memory": 128
+    "memory": 64
   },
   {
     "title": "Samsung S21",
