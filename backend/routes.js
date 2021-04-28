@@ -2,16 +2,8 @@
 const router = require("express").Router();
 const phoneData = require("./phones.json");
 
-// Set default API response
-router.get("/", function (req, res) {
-  res.json({
-    status: "API Its Working",
-    message: "Welcome to Backend Server",
-  });
-});
-
 // Set API phones response from mock data
-router.get("/phones", function (req, res) {
+router.get("/", function (req, res) {
   setTimeout(() => {
     res.json(phoneData);
   }, 2000);
