@@ -47,7 +47,7 @@ function PhoneDetailComponent(props) {
         <p>Memory: {detail.memory} GB</p>
         <p>Manufacturer: {detail.manufacturer}</p>
         <Box display="flex" justifyContent="flex-end">
-          <h2>{detail.price}, €</h2>
+          <h2>{detail.price} €</h2>
         </Box>
       </DialogContent>
     </>
